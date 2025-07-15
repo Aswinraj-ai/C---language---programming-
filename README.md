@@ -1,2 +1,5 @@
-# C---language---programming-
-A collection of my learning projects in c programming and ai/ml
+#include <stdio.h>
+int main(){
+printf("Hello world");
+return 0;
+}
